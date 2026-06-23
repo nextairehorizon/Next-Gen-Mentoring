@@ -9,6 +9,9 @@ Welcome to the **Next-Gen Mentoring** repository. This initiative is dedicated t
 ### 1. Next-Gen Mentoring: Embracing AI and New Technologies
 This workshop focuses on the practical application of AI and knowledge management tools in academia. Mentors are introduced to a curated set of resources designed to streamline literature search, organize research notes, and manage complex projects.
 
+**Presenter:**
+*  Mario Lovrić (InAntro)
+
 **Key Topics Covered:**
 *   **Knowledge Management:** Using **Claude, Obsidian, and Notion** to build a "second brain."
 *   **Literature Organization:** Leveraging modern reference managers and AI-powered tools for academic search.
@@ -23,6 +26,9 @@ You can access the full recording of the workshop on YouTube via the link below:
 
 ### 2. Next-Gen Mentoring: Mentoring in Academia vs. Industry
 This workshop explores the transition from academic research to entrepreneurship through the real-world case study of **MegaSense Oy**, an air quality start-up spun out from the **University of Helsinki**. It highlights how an interdisciplinary research collaboration between computer science and atmospheric science evolved into a deep-tech company.
+
+**Presenter:**
+*  Andrew Rebeiro-Hargrave (MegaSense Oy, University of Helsinki)
 
 **Key Topics Covered:**
 *   **Research Commercialisation:** Real-world insights into transitioning university research into a formal spin-out company.
@@ -42,12 +48,22 @@ You can access the full recording of the workshop on YouTube via the link below:
 ### 3. Next-Gen Mentoring: Technology Transfer
 This workshop focuses on the critical transition from academic research to market-ready innovation. Through expert guidance and real-world case studies, it provides researchers, supervisors, and mentors with a practical roadmap for identifying commercialisation pathways, developing value propositions, and achieving early market validation.
 
+**Presenters:** 
+*  Alexander Sirois (Unico)
+*  Andrew Rebeiro-Hargrave (MegaSense Oy, University of Helsinki)
+
+
 **Key Topics Covered:**
 *   **From Lab to Market:** Key steps, frameworks, and strategic commercialisation pathways required to move promising technologies out of the laboratory and into the market.
 *   **Value Proposition Development:** Strategies for defining unique, clear benefits and aligning academic research goals with real-world customer and user needs.
 *   **Early Market Validation:** Utilizing customer discovery interventions and structured interviews to test startup assumptions and validate market demand.
 *   **Real-World Case Studies:** Practical insights and lessons learned from the ongoing commercialisation journeys and growth challenges of successful deep-tech spin-outs.
 *   **Science-Industry Synergy:** Bridging the gap between research groups and industry partners to maximize the societal and economic impact of academic innovations.
+
+**Presentation Materials:**
+The presentation slides used during the session are available here:
+
+👉 [From Lab to Market (Alexander Sirois - Unico) - Presentation Slides](https://github.com/nextairehorizon/Next-Gen-Mentoring/blob/99a528786e4bb9e080ce52fb65e1be6c87f3274c/Next-Gen%20Mentoring%20-%20Technology%20Transfer/Alexander%20Sirois%20-%20Lab%20to%20Market%2016.6.26..pdf)
 
 **Watch the Session:**
 You can access the full recording of the workshop on YouTube via the link below:
