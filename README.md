@@ -39,4 +39,21 @@ You can access the full recording of the workshop on YouTube via the link below:
 
 ---
 
+### 3. Next-Gen Mentoring: Technology Transfer
+This workshop focuses on the critical transition from academic research to market-ready innovation. Through expert guidance and real-world case studies, it provides researchers, supervisors, and mentors with a practical roadmap for identifying commercialisation pathways, developing value propositions, and achieving early market validation.
+
+**Key Topics Covered:**
+*   **From Lab to Market:** Key steps, frameworks, and strategic commercialisation pathways required to move promising technologies out of the laboratory and into the market.
+*   **Value Proposition Development:** Strategies for defining unique, clear benefits and aligning academic research goals with real-world customer and user needs.
+*   **Early Market Validation:** Utilizing customer discovery interventions and structured interviews to test startup assumptions and validate market demand.
+*   **Real-World Case Studies:** Practical insights and lessons learned from the ongoing commercialisation journeys and growth challenges of successful deep-tech spin-outs.
+*   **Science-Industry Synergy:** Bridging the gap between research groups and industry partners to maximize the societal and economic impact of academic innovations.
+
+**Watch the Session:**
+You can access the full recording of the workshop on YouTube via the link below:
+
+👉 [Next-Gen Mentoring: Technology Transfer - Workshop Recording](https://www.youtube.com/watch?v=Ut2KETFv7D8)
+
+---
+
 *This project is part of our ongoing commitment to professional development and digital excellence in mentorship.*
