@@ -72,4 +72,30 @@ You can access the full recording of the workshop on YouTube via the link below:
 
 ---
 
+### 4. Next-Gen Mentoring: Intellectual Property (IP) in Mentorship and Innovation
+This workshop focuses on the fundamentals of intellectual property (IP) and strategic intellectual asset management (IAM) within the academic mentoring process. Mentors are introduced to a broader concept of "intellectual assets," the critical timing of filing protections before public disclosure, and practical frameworks to identify, secure, and commercially deploy research outputs.
+
+**Presenter:**
+*  Ana Nikšić-Šarić (Terra Technopolis)
+
+**Key Topics Covered:**
+*   **Intellectual Property (IP) vs. Intellectual Assets (IA):** Widening the definition of research value beyond formal IP (patents) to include data, software, algorithms, methodologies, and tacit know-how.
+*   **The Golden Rule of Absolute Novelty:** Understanding how public disclosures (including poster sessions, preprints, and public thesis defenses) permanently destroy patentability in the EU and globally.
+*   **IP Governance in Collaborative Projects:** Managing foreground ownership, joint ownership, background IP, and access rights early in EU consortium projects to prevent future disputes.
+*   **IP Protection Toolbox:** Strategically choosing between patents, copyrights, trademarks, industrial designs, and trade secrets based on the intended exploitation route.
+*   **Patent Timeline & TRL Scale:** Identifying the optimal transition stage (typically from TRL 3 to TRL 4) to file a patent application before sharing research results.
+*   **Mentor's Checklist & Support Networks:** Equipping mentors with a practical 5-question checklist to run with mentees and utilizing support networks like Technology Transfer Offices (TTO), the Enterprise Europe Network (EEN), and PATLIB centers.
+
+**Presentation Materials:**
+The presentation slides used during the session are available here:
+
+👉 [NextAIRE IP Workshop - Presentation Slides](https://github.com/nextairehorizon/Next-Gen-Mentoring/blob/main/Next-Gen%20Mentoring%20-%20Intellectual%20Property%20(IP)%20in%20Mentorship%20and%20Innovation/IP_Workshop_NextAIRE_EN%20(5).pdf)
+
+**Watch the Session:**
+You can access the full recording of the workshop on YouTube via the link below:
+
+👉 [Next-Gen Mentoring: Intellectual Property (IP) in Mentorship and Innovation - Workshop Recording](https://www.youtube.com/watch?v=Oa872QEO42M)
+
+---
+
 *This project is part of our ongoing commitment to professional development and digital excellence in mentorship.*
