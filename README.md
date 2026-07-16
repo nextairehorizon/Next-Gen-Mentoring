@@ -89,7 +89,7 @@ This workshop focuses on the fundamentals of intellectual property (IP) and stra
 **Presentation Materials:**
 The presentation slides used during the session are available here:
 
-👉 [NextAIRE IP Workshop - Presentation Slides](https://github.com/nextairehorizon/Next-Gen-Mentoring/blob/main/Next-Gen%20Mentoring%20-%20Intellectual%20Property%20(IP)%20in%20Mentorship%20and%20Innovation/IP_Workshop_NextAIRE_EN%20(5).pdf)
+👉 [NextAIRE IP Workshop (Ana Nikšić-Šarić) - Presentation Slides](https://github.com/nextairehorizon/Next-Gen-Mentoring/blob/main/Next-Gen%20Mentoring%20-%20Intellectual%20Property%20(IP)%20in%20Mentorship%20and%20Innovation/IP_Workshop_NextAIRE_EN%20(5).pdf)
 
 **Watch the Session:**
 You can access the full recording of the workshop on YouTube via the link below:
