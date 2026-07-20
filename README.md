@@ -1,6 +1,6 @@
 # Next-Gen Mentoring
 
-Welcome to the **Next-Gen Mentoring** repository. This initiative is dedicated to modernizing the academic mentoring process by integrating cutting-edge digital resources and AI-powered workflows. Our goal is to equip mentors and supervisors with the tools necessary to build more efficient, effective, and transparent workflows in the digital age.
+Welcome to the **Next-Gen Mentoring** repository. This initiative is dedicated to modernizing the academic mentoring process by equipping mentors, supervisors, and researchers with the skills needed to thrive in today’s professional landscape. Our comprehensive program bridges the gap between academic research and real-world impact by focusing on two core pillars. First, it addresses digital and AI-powered workflows, integrating cutting-edge resources, knowledge management systems, and AI tools to streamline research environments. Second, it guides researchers through innovation and technology transfer, covering the strategic transition from academia to industry, intellectual property strategies, science commercialisation, and startup ecosystems.
 
 ---
 
