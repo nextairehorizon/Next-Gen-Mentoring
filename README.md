@@ -17,6 +17,11 @@ This workshop focuses on the practical application of AI and knowledge managemen
 *   **Literature Organization:** Leveraging modern reference managers and AI-powered tools for academic search.
 *   **Workflow Efficiency:** Strategies for supervisors to maintain high-quality mentorship in an increasingly automated environment.
 
+**Presentation Materials:**
+The presentation slides used during the session are available here:
+
+👉 [Embracing AI and New Technologies (Mario Lovrić) - Presentation Slides](https://github.com/nextairehorizon/Next-Gen-Mentoring/blob/main/Next-Gen%20Mentoring%20-%20Embracing%20AI%20and%20New%20Technologies/WS_mentors.pdf)
+
 **Watch the Session:**
 You can access the full recording of the workshop on YouTube via the link below:
 
